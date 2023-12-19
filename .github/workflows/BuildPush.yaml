@@ -27,4 +27,4 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: ricky8484/med-v2 image:latest
+                tags: ricky8484/med-image:latest
